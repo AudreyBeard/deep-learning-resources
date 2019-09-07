@@ -60,11 +60,11 @@ The neural network training systems in PyTorch tend to look very similar - the
 design patterns are shaped by the tools available in PyTorch. In general, your
 training system looks like:
 1. Define the following:
-  - dataset(s)
-  - loader(s)
-  - model
-  - objective
-  - optimizer
+    - dataset(s)
+    - loader(s)
+    - model
+    - objective
+    - optimizer
 2. Iterate through the training data, and for each batch:
   1. Pass input through model to get output
   2. Pass target and output into objective to get loss
@@ -266,7 +266,7 @@ The above code and more can be found
     iterable. It's awesome, and you should use it for everything
   - [Documentation](https://tqdm.github.io/)
   - `pip install tqdm`
-- `tensorboard\_logger`
+- `tensorboard_logger`
   - One thing that TensorFlow used to have over PyTorch was `tensorboard`,
     which does some beautiful real-time graphing in a web app. Three years ago,
     some developers started an open-source tool for creating tensorboard events
