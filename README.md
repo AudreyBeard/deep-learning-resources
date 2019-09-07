@@ -66,11 +66,11 @@ training system looks like:
     - objective
     - optimizer
 2. Iterate through the training data, and for each batch:
-  1. Pass input through model to get output
-  2. Pass target and output into objective to get loss
-  3. Zero-out optimizer
-  4. Compute gradient on loss
-  5. Update model weights
+    1. Pass input through model to get output
+    2. Pass target and output into objective to get loss
+    3. Zero-out optimizer
+    4. Compute gradient on loss
+    5. Update model weights
 3. Evaluate on validation data (optional, but strongly recommended)
 
 Let's talk about how we get there.
