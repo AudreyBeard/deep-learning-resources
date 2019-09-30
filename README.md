@@ -15,6 +15,11 @@ list of the best ones we can find:
       [ImageNet](https://arxiv.org/pdf/1409.0575.pdf) paper and PhD student of
       CS at Stanford
 - https://twitter.com/suzatweet/status/1178548751012466688?s=09
+- https://twitter.com/jeremyphoward/status/1178351261608861701?s=19
+
+
+
+
 
 ## Important Papers
 - [ImageNet](https://arxiv.org/pdf/1409.0575.pdf)
