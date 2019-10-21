@@ -5,7 +5,7 @@ A collaborative collection of resources for learning the theory and practice of 
 ## PyTorch
 This repo focuses on PyTorch, since that's what we use in the lab. To get
 started with PyTorch, check out
-[pytorch-intro.md](https://github.com/AudreyBeard/deep-learning-resources/blob/master/pytorch-intro)
+[pytorch-intro.md](https://github.com/AudreyBeard/deep-learning-resources/blob/master/pytorch-intro.md)
 
 ## Deep Learning
 There are myriad sources for learning about deep learning. Here's a running
